@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.tyrannyofheaven.bukkit</groupId>
+  <artifactId>ToHPluginUtils</artifactId>
+  <versioning>
+    <release>1.1-1.6.4</release>
+    <versions>
+      <version>1.1-1.6.4</version>
+    </versions>
+    <lastUpdated>20150819231850</lastUpdated>
+  </versioning>
+</metadata>
